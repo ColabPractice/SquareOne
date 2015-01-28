@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F6552CA3-44AB-8B8C-3087-D09C68132077}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "gaem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
